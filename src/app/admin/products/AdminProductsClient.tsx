@@ -5,7 +5,7 @@ import Link from 'next/link';
 import { Search, ShoppingBag, MoreVertical, Loader2 } from 'lucide-react';
 import { formatRelativeTime } from '@/lib/utils/format';
 import { createClient } from '@/lib/supabase/client';
-import { approveProduct, rejectProduct, unpublishProduct, deleteProduct } from '@/lib/actions/admin';
+import { approveProduct, rejectProduct, unpublishProduct, deleteProduct, forcePublishProduct } from '@/lib/actions/admin';
 import { toast } from 'sonner';
 
 interface AdminProductsClientProps {
@@ -120,6 +120,60 @@ export default function AdminProductsClient({ initialProducts }: AdminProductsCl
     }
     setDropdownOpenId(null);
   };
+
+    const handleForcePublish = async (id: string, name: string) => {
+    if (!confirm(`Are you sure you want to force publish "${name}"?`)) return;
+    setLoadingAction(`force-${id}`);
+    const result = await forcePublishProduct(id, 100); // give 100 stock if empty? Or just no stock update
+    setLoadingAction(null);
+    if (result.success) {
+      toast.success('Product forcibly published');
+    } else {
+      toast.error(result.error || 'Failed to force publish');
+    }
+    setDropdownOpenId(null);
+  };
+
+  const renderDropdownMenu = (product: any) => (
+    <>
+      {/* Mobile Backdrop */}
+      <div 
+        className="fixed inset-0 z-40 bg-black/20 md:hidden" 
+        onClick={(e) => { e.stopPropagation(); setDropdownOpenId(null); }} 
+      />
+      <div className="fixed md:absolute bottom-0 md:bottom-auto left-0 md:left-auto md:right-0 md:top-10 w-full md:w-56 bg-white md:rounded-xl rounded-t-3xl border border-gray-100 md:border-gray-200 shadow-[0_-10px_40px_rgba(0,0,0,0.1)] md:shadow-xl z-50 py-4 md:py-1 overflow-hidden animate-in slide-in-from-bottom-full md:slide-in-from-top-2 duration-300 md:duration-200">
+        
+        {/* Mobile handle */}
+        <div className="w-12 h-1.5 bg-gray-200 rounded-full mx-auto mb-4 md:hidden"></div>
+
+        {product.status === 'pending_review' && (
+          <>
+            <button onClick={() => handleApprove(product.id, product.name)} className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-3 font-medium">Approve Product</button>
+            <button onClick={() => { setRejectingId(product.id); setDropdownOpenId(null); }} className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-3 font-medium">Reject</button>
+            <div className="h-px bg-gray-100 my-1"></div>
+          </>
+        )}
+        {product.status === 'published' && (
+          <>
+            <button onClick={() => handleUnpublish(product.id)} className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-3 font-medium">Unpublish</button>
+            <div className="h-px bg-gray-100 my-1"></div>
+          </>
+        )}
+        {['draft', 'rejected', 'archived'].includes(product.status) && (
+          <>
+            <button onClick={() => handleForcePublish(product.id, product.name)} className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-3 font-medium text-amber-600">Force Publish</button>
+            <div className="h-px bg-gray-100 my-1"></div>
+          </>
+        )}
+        
+        <a href={`/store/products/${product.id}`} target="_blank" rel="noreferrer" className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-3 font-medium">View in Store</a>
+        
+        <div className="h-px bg-gray-100 my-1"></div>
+        
+        <button onClick={() => handleDelete(product.id, product.name)} className="w-full text-left px-5 py-3 md:py-2 text-base md:text-sm text-red-600 hover:bg-red-50 flex items-center gap-3 font-bold">Delete Product</button>
+      </div>
+    </>
+  );
 
   return (
     <div className="min-h-full bg-gray-50 relative">
@@ -329,26 +383,7 @@ export default function AdminProductsClient({ initialProducts }: AdminProductsCl
                           <MoreVertical className="w-5 h-5" />
                         </button>
 
-                        {dropdownOpenId === product.id && (
-                          <div className="absolute right-0 top-10 w-48 bg-white border border-gray-200 shadow-xl rounded-xl z-20 py-1 overflow-hidden">
-                            {product.status === 'pending_review' && (
-                              <>
-                                <button onClick={() => handleApprove(product.id, product.name)} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2">Approve</button>
-                                <button onClick={() => { setRejectingId(product.id); setDropdownOpenId(null); }} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2">Reject</button>
-                                <div className="h-px bg-gray-100 my-1"></div>
-                              </>
-                            )}
-                            {product.status === 'published' && (
-                              <>
-                                <button onClick={() => handleUnpublish(product.id)} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2">Unpublish</button>
-                                <div className="h-px bg-gray-100 my-1"></div>
-                              </>
-                            )}
-                            <a href={`/products/${product.slug}`} target="_blank" rel="noreferrer" className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50 flex items-center gap-2">View</a>
-                            <div className="h-px bg-gray-100 my-1"></div>
-                            <button onClick={() => handleDelete(product.id, product.name)} className="w-full text-left px-4 py-2 text-sm text-red-600 hover:bg-red-50 flex items-center gap-2 font-medium">Delete Product</button>
-                          </div>
-                        )}
+                        {dropdownOpenId === product.id && renderDropdownMenu(product)}
                       </div>
                     </div>
                   ))}
@@ -395,26 +430,7 @@ export default function AdminProductsClient({ initialProducts }: AdminProductsCl
                             >
                               <MoreVertical className="w-4 h-4" />
                             </button>
-                            {dropdownOpenId === product.id && (
-                              <div className="absolute right-0 top-8 w-48 bg-white border border-gray-200 shadow-xl rounded-xl z-20 py-1 overflow-hidden">
-                                {product.status === 'pending_review' && (
-                                  <>
-                                    <button onClick={() => handleApprove(product.id, product.name)} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50">Approve</button>
-                                    <button onClick={() => { setRejectingId(product.id); setDropdownOpenId(null); }} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50">Reject</button>
-                                    <div className="h-px bg-gray-100 my-1"></div>
-                                  </>
-                                )}
-                                {product.status === 'published' && (
-                                  <>
-                                    <button onClick={() => handleUnpublish(product.id)} className="w-full text-left px-4 py-2 text-sm text-gray-700 hover:bg-gray-50">Unpublish</button>
-                                    <div className="h-px bg-gray-100 my-1"></div>
-                                  </>
-                                )}
-                                <a href={`/products/${product.slug}`} target="_blank" rel="noreferrer" className="w-full block px-4 py-2 text-sm text-gray-700 hover:bg-gray-50">View Page</a>
-                                <div className="h-px bg-gray-100 my-1"></div>
-                                <button onClick={() => handleDelete(product.id, product.name)} className="w-full text-left px-4 py-2 text-sm text-red-600 hover:bg-red-50 font-medium">Delete Product</button>
-                              </div>
-                            )}
+                            {dropdownOpenId === product.id && renderDropdownMenu(product)}
                           </div>
                         </div>
 

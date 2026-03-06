@@ -764,7 +764,7 @@ export async function getAdminSellers(
     let query = supabase
       .from('profiles')
       .select('*')
-      .eq('role', 'seller')
+      .eq('role', 'vendor')
       .order('created_at', { ascending: false });
 
     if (filter && filter !== 'all') {
@@ -811,17 +811,18 @@ export async function getAdminSellerDetail(sellerId: string) {
     const { data: products } = await supabase
       .from('products')
       .select(
-        'id, title, status, price, created_at, thumbnail_url, file_type, category:categories(name)'
+        'id, name, status, price, created_at, images, category:product_categories(name)'
       )
       .eq('vendor_id', sellerId)
       .order('created_at', { ascending: false });
 
+    // Try seller_earnings
     const { data: earnings } = await supabase
-      .from('earnings')
-      .select('gross_amount')
-      .eq('instructor_id', sellerId); // seller uses instructor_id in earnings
+      .from('seller_earnings')
+      .select('net_amount')
+      .eq('vendor_id', sellerId);
 
-    const totalRevenue = earnings?.reduce((sum, e) => sum + (e.gross_amount || 0), 0) || 0;
+    const totalRevenue = earnings?.reduce((sum, e) => sum + (e.net_amount || 0), 0) || 0;
 
     return {
       profile,
@@ -936,11 +937,7 @@ export async function getAdminProducts(
         images,
         price,
         status,
-        file_type,
-        file_size,
-        submitted_at,
         created_at,
-        rejection_reason,
         vendor_id,
         seller:profiles!vendor_id(
           id,
@@ -949,7 +946,7 @@ export async function getAdminProducts(
           avatar_url,
           approval_status
         ),
-        category:categories(
+        category:product_categories(
           id,
           name
         )
@@ -1495,6 +1492,172 @@ export async function toggleFeaturedCourse(courseId: string, isFeatured: boolean
   }
 }
 
+export async function forcePublishCourse(courseId: string) {
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from('courses')
+      .update({
+        status: 'published',
+        approved_at: new Date().toISOString(),
+        is_archived: false,
+      })
+      .eq('id', courseId);
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function archiveCourse(courseId: string) {
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from('courses')
+      .update({
+        status: 'unpublished', // Using safe string that fallback UI can handle
+        is_archived: true,
+      })
+      .eq('id', courseId);
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function assignInstructor(courseId: string, instructorId: string) {
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from('courses')
+      .update({ instructor_id: instructorId })
+      .eq('id', courseId);
+    if (error) throw error;
+    
+    // Notify the new instructor
+    const { data: course } = await supabase.from('courses').select('title').eq('id', courseId).single();
+    if (course) {
+      await supabase.from('notifications').insert({
+        user_id: instructorId,
+        type: 'system',
+        title: 'You have been assigned to a new course',
+        message: `An admin has assigned you as the instructor for "${course.title}".`,
+        link: `/instructor/courses/${courseId}`,
+      });
+    }
+
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function bulkPublishCourses(courseIds: string[]) {
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from('courses')
+      .update({ status: 'published', approved_at: new Date().toISOString(), is_archived: false })
+      .in('id', courseIds);
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function bulkDeleteCourses(courseIds: string[]) {
+  try {
+    const supabase = await createClient();
+    const { error } = await supabase
+      .from('courses')
+      .delete()
+      .in('id', courseIds);
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function updateCourseAdmin(courseId: string, updates: any) {
+  try {
+    const supabase = await createClient();
+    // Validate if category changes etc if necessary
+    const { error } = await supabase
+      .from('courses')
+      .update(updates)
+      .eq('id', courseId);
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
+
+export async function createCourseAdmin(data: any) {
+  try {
+    const supabase = await createClient();
+    
+    // Generate slug from title if not provided
+    const slug = data.title.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)+/g, '');
+
+    const newCourse = {
+      ...data,
+      slug,
+      status: 'published', // Admin created course automatically published
+      approved_at: new Date().toISOString(),
+      is_featured: false,
+      is_archived: false,
+      rating: 0,
+      rating_count: 0,
+      total_students: 0
+    };
+
+    const { data: created, error } = await supabase
+      .from('courses')
+      .insert(newCourse)
+      .select()
+      .single();
+
+    if (error) throw error;
+    revalidatePath('/admin/courses');
+    return { success: true, courseId: created.id };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}
 
 
+export async function forcePublishProduct(productId: string, stockQuantity?: number) {
+  try {
+    const supabase = await createClient();
 
+    const updates: any = { status: 'active', updated_at: new Date().toISOString() };
+    if (stockQuantity !== undefined) {
+      updates.stock_quantity = stockQuantity;
+    }
+
+    const { error } = await supabase
+      .from('products')
+      .update(updates)
+      .eq('id', productId);
+
+    if (error) throw error;
+
+    revalidatePath('/admin/products');
+    revalidatePath(`/admin/products/${productId}`);
+    revalidatePath('/store');
+    return { success: true };
+  } catch (error: any) {
+    return { success: false, error: error.message };
+  }
+}

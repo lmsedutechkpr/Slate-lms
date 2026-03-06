@@ -7,7 +7,9 @@ import { WelcomeBanner } from '@/components/dashboard/WelcomeBanner';
 import { StatsRow } from '@/components/dashboard/StatsRow';
 import { ContinueLearning } from '@/components/dashboard/ContinueLearning';
 import { RecommendedCourses } from '@/components/dashboard/RecommendedCourses';
+import { RecommendedProducts } from '@/components/dashboard/RecommendedProducts';
 import { ActivityFeed } from '@/components/dashboard/ActivityFeed';
+import { getRecommendedProducts } from '@/lib/actions/products';
 
 export default async function StudentDashboardPage() {
   const supabase = await createClient();
@@ -37,6 +39,11 @@ export default async function StudentDashboardPage() {
     enrolledCourseIds
   );
 
+  const recommendedProducts = await getRecommendedProducts(
+    profile.interests || [],
+    enrolledCourseIds
+  );
+
   return (
     <div className="space-y-10 pb-20">
       <WelcomeBanner user={profile} stats={stats} />
@@ -49,6 +56,7 @@ export default async function StudentDashboardPage() {
             courses={recommendedCourses}
             interests={profile.interests || []}
           />
+          <RecommendedProducts products={recommendedProducts} />
         </div>
         <div>
           <ActivityFeed activities={recentActivity} />

@@ -209,6 +209,7 @@ export default async function AdminSellerDetailPage({
                 <div className="divide-y divide-gray-50">
                   {products.map((product: any) => {
                     const conf = STATUS_CONFIG[product.status] || STATUS_CONFIG.draft;
+                    const imgUrl = Array.isArray(product.images) && product.images.length > 0 ? product.images[0]?.url : null;
                     return (
                       <Link
                         key={product.id}
@@ -216,10 +217,10 @@ export default async function AdminSellerDetailPage({
                         className="flex items-center gap-4 px-6 py-4 hover:bg-gray-50 transition-colors"
                       >
                         <div className="w-14 h-14 rounded-lg bg-gray-100 overflow-hidden flex-shrink-0">
-                          {product.thumbnail_url ? (
+                          {imgUrl ? (
                             <img
-                              src={product.thumbnail_url}
-                              alt={product.title}
+                              src={imgUrl}
+                              alt={product.name}
                               className="w-full h-full object-cover"
                             />
                           ) : (
@@ -230,7 +231,7 @@ export default async function AdminSellerDetailPage({
                         </div>
                         <div className="flex-1 min-w-0">
                           <p className="text-sm font-medium text-gray-900 truncate">
-                            {product.title}
+                            {product.name}
                           </p>
                           <div className="flex items-center gap-2 mt-0.5">
                             <span
@@ -239,7 +240,7 @@ export default async function AdminSellerDetailPage({
                               {conf.label}
                             </span>
                             <span className="text-xs text-gray-500 capitalize">
-                              {product.file_type || 'digital'}
+                              {product.category?.name || 'Product'}
                             </span>
                           </div>
                         </div>

@@ -141,7 +141,7 @@ export function LoginForm() {
         const roleRedirects: Record<string, string> = {
           student: "/dashboard",
           instructor: "/instructor/dashboard",
-          vendor: "/vendor/dashboard",
+          vendor: "/seller",
           admin: "/admin/dashboard",
         };
         

@@ -187,7 +187,7 @@ export function SignupForm() {
             duration: 4000,
           });
           await new Promise(r => setTimeout(r, 1200));
-          router.push("/vendor/dashboard");
+          router.push("/seller");
         }
       } else if (data.session === null) {
         toast.success("Check your email!", {

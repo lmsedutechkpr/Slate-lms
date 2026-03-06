@@ -2,7 +2,7 @@ export type UserRole = 'student' | 'instructor' | 'vendor' | 'admin';
 export type ApprovalStatus = 'pending' | 'approved' | 'rejected';
 export type PreferredLanguage = 'en' | 'ta';
 export type CourseDifficulty = 'beginner' | 'intermediate' | 'advanced';
-export type CourseStatus = 'draft' | 'published' | 'archived';
+export type CourseStatus = 'draft' | 'published' | 'archived' | 'pending_review' | 'rejected' | 'unpublished';
 export type ContentLanguage = 'english' | 'tamil' | 'both';
 export type ActivityType =
   | 'enrollment'
@@ -86,8 +86,14 @@ export interface Course {
   rating_count: number;
   enrollment_count: number;
   is_featured: boolean;
+  is_archived?: boolean; // Phase 3: Archive state
+  original_price?: number | null; // Phase 3: Original price
+  status?: CourseStatus; // Added missing status
+  rejection_reason?: string | null;
   created_at: string;
   updated_at: string;
+  approved_at?: string | null;
+  submitted_at?: string | null;
   // Joined fields
   category?: Category | Category[] | null;
   instructor?: Profile | Profile[] | null;
