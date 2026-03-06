@@ -1,0 +1,22 @@
+export function formatRelativeTime(date: string | null | undefined): string {
+  if (!date) return '—';
+  
+  const now = new Date();
+  const d = new Date(date);
+  const diffMs = now.getTime() - d.getTime();
+  const diffMins = Math.floor(diffMs / 60000);
+  const diffHours = Math.floor(diffMs / 3600000);
+  const diffDays = Math.floor(diffMs / 86400000);
+  
+  if (diffMins < 1) return 'just now';
+  if (diffMins < 60) return `${diffMins}m ago`;
+  if (diffHours < 24) return `${diffHours}h ago`;
+  if (diffDays < 7) return `${diffDays}d ago`;
+  if (diffDays < 30) return `${Math.floor(diffDays / 7)}w ago`;
+  
+  return d.toLocaleDateString('en-IN', {
+    day: 'numeric',
+    month: 'short',
+    year: diffDays > 365 ? 'numeric' : undefined,
+  });
+}

@@ -1,0 +1,1321 @@
+2026-02-28T16:37:45.128Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:37:45.254Z [console][log] [Fast Refresh] done in 233ms
+2026-02-28T16:37:55.272Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:37:55.349Z [console][log] [Fast Refresh] done in 183ms
+2026-02-28T16:38:02.930Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:03.064Z [console][log] [Fast Refresh] done in 237ms
+2026-02-28T16:38:08.165Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:08.328Z [console][log] [Fast Refresh] done in 263ms
+2026-02-28T16:38:16.952Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:17.086Z [console][log] [Fast Refresh] done in 235ms
+2026-02-28T16:38:36.674Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:36.702Z [console][log] [Fast Refresh] done in 130ms
+2026-02-28T16:38:42.557Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:42.761Z [console][log] [Fast Refresh] done in 238ms
+2026-02-28T16:38:42.886Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:43.037Z [console][log] [Fast Refresh] done in 252ms
+2026-02-28T16:38:48.382Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:49.281Z [console][log] [Fast Refresh] done in 959ms
+2026-02-28T16:38:49.698Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:38:49.766Z [console][log] [Fast Refresh] done in 170ms
+2026-02-28T16:35:23.090Z [network][GET 500] 
+  response: <!DOCTYPE html><html><head><meta charSet="utf-8" data-next-head=""/><meta name="viewport" content="width=device-width" data-next-head=""/><style data-next-hide-fouc="true">body{display:none}</style><noscript data-next-hide-fouc="true"><style>body{display:block}</style></noscript><noscript data-n-css=""></noscript><script defer="" noModule="" src="/_next/static/chunks/abed4_next_dist_build_polyfills_polyfill-nomodule.js"></script><script src="/_next/static/chunks/abed4_next_dist_compiled_next-devtools_index_d866f535.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_compiled_1d40419d._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_shared_lib_64c89d01._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_client_5a0cb96c._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_dc896b13._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_app_d222883d.js" defer=""></script><script src="/_next/static/chunks/%5Bnext%5D_entry_page-loader_ts_f5bdf7e6._.js" defer=""></script><script src="/_next/static/chunks/abed4_react-dom_3c64b992._.js" defer=""></script><script src="/_next/static/chunks/abed4_cc3271c3._.js" defer=""></script><script src="/_next/static/chunks/%5Broot-of-the-server%5D__8da59790._.js" defer=""></script><script src="/_next/static/chunks/orchids-projects_green-ladybug_pages__app_2da965e7._.js" defer=""></script><script src="/_next/static/chunks/turbopack-orchids-projects_green-ladybug_pages__app_ff08855e._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_shared_lib_4442aa8f._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_dist_bd3b5901._.js" defer=""></script><script src="/_next/static/chunks/abed4_next_error_c736b68f.js" defer=""></script><script src="/_next/static/chunks/%5Bnext%5D_entry_page-loader_ts_57c70bea._.js" defer=""></script><script src="/_next/static/chunks/%5Broot-of-the-server%5D__817e7dac._.js" defer="">... [truncated]
+2026-02-28T16:35:39.734Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:35:49.252Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:35:56.672Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:35:56.819Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:04.651Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:04.805Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:21.803Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:21.993Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:33.958Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:34.123Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:55.074Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:36:55.261Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:37:09.520Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:37:09.656Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:37:23.610Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:38:43.044Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:38:43.205Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+27:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+29:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_ff7d1d92._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_components_ui_sonner_tsx_a52eb5e2._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+2e:I["[project]/orchids-projects/green-ladybug/src/app/p... [truncated]
+2026-02-28T16:38:49.515Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/src/components/providers/AuthProvider.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"AuthProvider"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+1a:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+29:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+2b:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2f:I["[project]/orchids-projects/green-ladybug/node_modules/next/... [truncated]
+2026-02-28T16:38:49.776Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+16:I["[project]/orchids-projects/green-ladybug/src/components/providers/AuthProvider.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"AuthProvider"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+1a:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+29:I["[project]/orchids-projects/green-ladybug/src/components/ui/sonner.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"Toaster"]
+2b:I["[project]/orchids-projects/green-ladybug/node_modules/orchids-visual-edits/dist/index.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js"],"VisualEditsMessenger"]
+2f:I["[project]/orchids-projects/green-ladybug/node_modules/next/... [truncated]
+2026-02-28T16:39:16.342Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T16:39:16.706Z [console][warn] [Fast Refresh] done in 464ms
+2026-02-28T16:39:16.927Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-02-28T16:39:17.061Z [console][error] Uncaught ReferenceError: Badge is not defined
+2026-02-28T16:39:39.659Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T16:39:40.068Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][warn] [Fast Refresh] done in 504ms
+2026-02-28T16:39:39.659Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:39:40.068Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][log] [Fast Refresh] done in 504ms
+2026-02-28T16:39:17.160Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/orchids-projects_green-ladybug_src_f2be665f._.js","line1":806,"column1":295,"methodName":"LandingPage","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":13072,"column1":24,"methodName":"Object.react_stack_bottom_frame","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":4091,"column1":24,"methodName":"renderWithHooks","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":5523,"column1":21,"methodName":"updateFunctionComponent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":6111,"column1":24,"methodName":"beginWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":886,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8298,"column1":97,"methodName":"performUnitOfWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8190,"column1":40,"methodName":"workLoopSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8173,"column1":13,"methodName":"renderRootSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Original file () outside project (file:///C:/Users/sathu/)\n\nDebug info:\n- Execution of TaskId { id: 2147483882 } transient failed\n- Execution of project_trace_source_operation failed\n- Original file () outside project (file:///C:/Users/sathu/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":23583,"column1":20,"ignored":true,"methodName":"Object.react_stack_bottom_frame"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":6792,"column1":22,"ignored":true,"methodName":"renderWithHooks"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":9246,"column1":19,"ignored":true,"methodName":"updateFunctionComponent"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":10857,"column1":18,"ignored":true,"methodName":"beginWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":871,"column1":30,"ignored":true,"methodName":"runWithFiberInDEV"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":15726,"column1":22,"ignored":true,"methodName":"performUnitOfWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/r... [truncated]
+2026-02-28T16:39:40.068Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][warn] [Fast Refresh] done in 504ms
+2026-02-28T16:39:39.659Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:39:40.068Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][log] [Fast Refresh] done in 504ms
+2026-02-28T16:39:17.160Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/orchids-projects_green-ladybug_src_f2be665f._.js","line1":806,"column1":295,"methodName":"LandingPage","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":13072,"column1":24,"methodName":"Object.react_stack_bottom_frame","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":4091,"column1":24,"methodName":"renderWithHooks","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":5523,"column1":21,"methodName":"updateFunctionComponent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":6111,"column1":24,"methodName":"beginWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":886,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8298,"column1":97,"methodName":"performUnitOfWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8190,"column1":40,"methodName":"workLoopSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8173,"column1":13,"methodName":"renderRootSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Original file () outside project (file:///C:/Users/sathu/)\n\nDebug info:\n- Execution of TaskId { id: 2147483882 } transient failed\n- Execution of project_trace_source_operation failed\n- Original file () outside project (file:///C:/Users/sathu/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":23583,"column1":20,"ignored":true,"methodName":"Object.react_stack_bottom_frame"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":6792,"column1":22,"ignored":true,"methodName":"renderWithHooks"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":9246,"column1":19,"ignored":true,"methodName":"updateFunctionComponent"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":10857,"column1":18,"ignored":true,"methodName":"beginWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":871,"column1":30,"ignored":true,"methodName":"runWithFiberInDEV"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":15726,"column1":22,"ignored":true,"methodName":"performUnitOfWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/r... [truncated]
+2026-02-28T16:39:16.342Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T16:39:16.706Z [console][warn] [Fast Refresh] done in 464ms
+2026-02-28T16:39:16.927Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-02-28T16:39:17.061Z [console][error] Uncaught ReferenceError: Badge is not defined
+2026-02-28T16:39:39.659Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T16:39:40.068Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][warn] [Fast Refresh] done in 504ms
+2026-02-28T16:39:39.659Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:39:40.068Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:39:40.082Z [console][log] [Fast Refresh] done in 504ms
+2026-02-28T16:39:17.160Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/orchids-projects_green-ladybug_src_f2be665f._.js","line1":806,"column1":295,"methodName":"LandingPage","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":13072,"column1":24,"methodName":"Object.react_stack_bottom_frame","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":4091,"column1":24,"methodName":"renderWithHooks","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":5523,"column1":21,"methodName":"updateFunctionComponent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":6111,"column1":24,"methodName":"beginWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":886,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8298,"column1":97,"methodName":"performUnitOfWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8190,"column1":40,"methodName":"workLoopSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8173,"column1":13,"methodName":"renderRootSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Original file () outside project (file:///C:/Users/sathu/)\n\nDebug info:\n- Execution of TaskId { id: 2147483882 } transient failed\n- Execution of project_trace_source_operation failed\n- Original file () outside project (file:///C:/Users/sathu/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":23583,"column1":20,"ignored":true,"methodName":"Object.react_stack_bottom_frame"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":6792,"column1":22,"ignored":true,"methodName":"renderWithHooks"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":9246,"column1":19,"ignored":true,"methodName":"updateFunctionComponent"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":10857,"column1":18,"ignored":true,"methodName":"beginWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":871,"column1":30,"ignored":true,"methodName":"runWithFiberInDEV"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":15726,"column1":22,"ignored":true,"methodName":"performUnitOfWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/r... [truncated]
+2026-02-28T16:51:18.434Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T16:51:18.698Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:51:18.725Z [console][warn] [Fast Refresh] done in 362ms
+2026-02-28T16:50:31.343Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/
+2026-02-28T16:50:36.713Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:50:36.754Z [console][log] [Fast Refresh] done in 150ms
+2026-02-28T16:50:36.837Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-02-28T16:51:18.434Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:51:18.699Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:51:18.725Z [console][log] [Fast Refresh] done in 362ms
+2026-02-28T16:50:36.774Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+11:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+13:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+2d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_6e64f01b._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_login_page_tsx_09712d8f._.js"],"default"]
+4e:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c... [truncated]
+2026-02-28T16:50:36.934Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","line1":595,"column1":52,"methodName":"LoginForm","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":13072,"column1":24,"methodName":"Object.react_stack_bottom_frame","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":4091,"column1":24,"methodName":"renderWithHooks","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":5523,"column1":21,"methodName":"updateFunctionComponent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":6090,"column1":639,"methodName":"beginWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":886,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8298,"column1":97,"methodName":"performUnitOfWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8190,"column1":40,"methodName":"workLoopSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8173,"column1":13,"methodName":"renderRootSync","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js",... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Original file () outside project (file:///C:/Users/sathu/)\n\nDebug info:\n- Execution of TaskId { id: 2147484364 } transient failed\n- Execution of project_trace_source_operation failed\n- Original file () outside project (file:///C:/Users/sathu/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":23583,"column1":20,"ignored":true,"methodName":"Object.react_stack_bottom_frame"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":6792,"column1":22,"ignored":true,"methodName":"renderWithHooks"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":9246,"column1":19,"ignored":true,"methodName":"updateFunctionComponent"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":10806,"column1":35,"ignored":true,"methodName":"beginWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":871,"column1":30,"ignored":true,"methodName":"runWithFiberInDEV"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":15726,"column1":22,"ignored":true,"methodName":"performUnitOfWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/r... [truncated]
+2026-02-28T16:50:36.754Z [console][log] [Fast Refresh] done in 150ms
+2026-02-28T16:50:36.837Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-02-28T16:51:18.434Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T16:51:18.699Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-02-28T16:51:18.725Z [console][log] [Fast Refresh] done in 362ms
+2026-02-28T15:06:07.135Z [console][warn] [Fast Refresh] rebuilding
+2026-02-28T15:06:08.261Z [console][warn] [Fast Refresh] done in 1236ms
+2026-02-28T15:06:07.137Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:06:08.263Z [console][log] [Fast Refresh] done in 1236ms
+2026-02-28T15:13:47.406Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:13:48.105Z [console][log] [Fast Refresh] done in 803ms
+2026-02-28T15:13:49.734Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:13:49.959Z [console][log] [Fast Refresh] done in 309ms
+2026-02-28T15:13:50.331Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-02-28T15:13:50.386Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:13:50.781Z [console][log] [Fast Refresh] done in 495ms
+2026-02-28T15:14:19.509Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:14:20.812Z [console][log] [Fast Refresh] done in 1266ms
+2026-02-28T15:14:34.895Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:14:35.369Z [console][log] [Fast Refresh] done in 533ms
+2026-02-28T15:14:46.432Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:14:46.579Z [console][log] [Fast Refresh] done in 247ms
+2026-02-28T15:16:27.956Z [console][log] [Fast Refresh] rebuilding
+2026-02-28T15:16:28.265Z [console][log] [Fast Refresh] done in 371ms
+2026-03-02T04:19:48.116Z [console][warn] [Fast Refresh] done in 181ms
+2026-03-02T04:19:48.157Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:19:48.244Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.260Z [console][warn] [Fast Refresh] done in 136ms
+2026-03-02T04:23:17.560Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:23:17.605Z [console][warn] [Fast Refresh] done in 150ms
+2026-03-02T04:23:17.644Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:23:29.812Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:23:29.827Z [console][warn] [Fast Refresh] done in 116ms
+2026-03-02T04:14:43.604Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/
+2026-03-02T04:19:34.583Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.490Z [console][log] [Fast Refresh] done in 2022ms
+2026-03-02T04:19:36.597Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.669Z [console][log] [Fast Refresh] done in 176ms
+2026-03-02T04:19:36.773Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:19:36.842Z [console][warn] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T04:19:36.882Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.887Z [console][log] [Fast Refresh] done in 183ms
+2026-03-02T04:19:46.774Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:47.934Z [console][log] [Fast Refresh] done in 1261ms
+2026-03-02T04:19:48.039Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.116Z [console][log] [Fast Refresh] done in 181ms
+2026-03-02T04:19:48.157Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:19:48.244Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.259Z [console][log] [Fast Refresh] done in 136ms
+2026-03-02T04:23:17.559Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:23:17.605Z [console][log] [Fast Refresh] done in 150ms
+2026-03-02T04:23:17.643Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:23:29.812Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:23:29.827Z [console][log] [Fast Refresh] done in 116ms
+2026-03-02T04:19:36.667Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+11:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+13:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+30:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_bff05bd9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_login_page_tsx_09712d8f._.js"],"default"]
+4f:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c... [truncated]
+2026-03-02T04:19:48.097Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_9be5ab48._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_fea49a94._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_signup_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c3... [truncated]
+2026-03-02T04:22:32.549Z [network][POST 500] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/signup
+  request: {"email":"user@gmail.com","password":"Qwertyuiop!!!789","data":{"full_name":"User","role":"student"},"gotrue_meta_security":{},"code_challenge":"y5TVKf75dEladZ1IKmpSi4S87Omo_yxJxf7_NsXBGDs","code_challenge_method":"s256"}
+  response: {"code":"unexpected_failure","message":"Database error saving new user"}
+2026-03-02T04:23:17.623Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_bff05bd9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_login_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35... [truncated]
+2026-03-02T04:23:29.871Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_9be5ab48._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_fea49a94._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_signup_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c3... [truncated]
+2026-03-02T04:19:48.244Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.260Z [console][warn] [Fast Refresh] done in 136ms
+2026-03-02T04:23:17.560Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:23:17.605Z [console][warn] [Fast Refresh] done in 150ms
+2026-03-02T04:23:17.644Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:23:29.812Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T04:23:29.827Z [console][warn] [Fast Refresh] done in 116ms
+2026-03-02T04:23:29.903Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:14:43.604Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/
+2026-03-02T04:19:34.583Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.490Z [console][log] [Fast Refresh] done in 2022ms
+2026-03-02T04:19:36.597Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.669Z [console][log] [Fast Refresh] done in 176ms
+2026-03-02T04:19:36.773Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:19:36.842Z [console][warn] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T04:19:36.882Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:36.887Z [console][log] [Fast Refresh] done in 183ms
+2026-03-02T04:19:46.774Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:47.934Z [console][log] [Fast Refresh] done in 1261ms
+2026-03-02T04:19:48.039Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.116Z [console][log] [Fast Refresh] done in 181ms
+2026-03-02T04:19:48.157Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:19:48.244Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:19:48.259Z [console][log] [Fast Refresh] done in 136ms
+2026-03-02T04:23:17.559Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:23:17.605Z [console][log] [Fast Refresh] done in 150ms
+2026-03-02T04:23:17.643Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/login
+2026-03-02T04:23:29.812Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T04:23:29.827Z [console][log] [Fast Refresh] done in 116ms
+2026-03-02T04:23:29.903Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:19:36.667Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+11:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+13:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+30:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_bff05bd9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_login_page_tsx_09712d8f._.js"],"default"]
+4f:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c... [truncated]
+2026-03-02T04:19:48.097Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_9be5ab48._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_fea49a94._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_signup_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c3... [truncated]
+2026-03-02T04:22:32.549Z [network][POST 500] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/signup
+  request: {"email":"user@gmail.com","password":"Qwertyuiop!!!789","data":{"full_name":"User","role":"student"},"gotrue_meta_security":{},"code_challenge":"y5TVKf75dEladZ1IKmpSi4S87Omo_yxJxf7_NsXBGDs","code_challenge_method":"s256"}
+  response: {"code":"unexpected_failure","message":"Database error saving new user"}
+2026-03-02T04:23:17.623Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_bff05bd9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_e5197b88._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_login_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35... [truncated]
+2026-03-02T04:23:29.871Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+15:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/app-dir/link.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_9be5ab48._.js","/_next/static/chunks/abed4_zod_v4_1d911734._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_b41600c3._.js","/_next/static/chunks/abed4_fea49a94._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(auth)_signup_page_tsx_09712d8f._.js"],"default"]
+34:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c3... [truncated]
+2026-03-02T04:27:16.226Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T04:27:16.422Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:27:16.423Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-02T04:28:54.347Z [network][POST 400] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/signup
+  request: {"email":"user@gmail.com","password":"Qwertyuiop!!!789","data":{"full_name":"User","role":"student"},"gotrue_meta_security":{},"code_challenge":"3f8tTrEZwhm42Sa17BCPwr2LGMY27FuwvdgOvQzOl8Y","code_challenge_method":"s256"}
+  response: {"code":"email_address_invalid","message":"Email address \"user@gmail.com\" is invalid"}
+2026-03-02T04:29:07.759Z [network][POST 400] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/signup
+  request: {"email":"user@gmail.com","password":"Qwertyuiop!!!789","data":{"full_name":"User","role":"student"},"gotrue_meta_security":{},"code_challenge":"uiJjbWg7YnVQz-8W2INXuTyHQeDjlNkWlJuf1YMPhgM","code_challenge_method":"s256"}
+  response: {"code":"email_address_invalid","message":"Email address \"user@gmail.com\" is invalid"}
+2026-03-02T06:23:48.868Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T06:23:49.806Z [console][warn] [Fast Refresh] done in 1035ms
+2026-03-02T06:24:01.810Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T06:24:02.612Z [console][warn] [Fast Refresh] done in 850ms
+2026-03-02T06:23:48.868Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T06:23:49.806Z [console][log] [Fast Refresh] done in 1035ms
+2026-03-02T06:24:01.810Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T06:24:02.612Z [console][log] [Fast Refresh] done in 850ms
+2026-03-02T06:04:45.358Z [network][POST 200] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/token?grant_type=refresh_token
+  request: {"refresh_token":"kuz75qz7nojs"}
+  response: {"access_token":"eyJhbGciOiJFUzI1NiIsImtpZCI6ImNlMTU3ZjNmLWIwY2ItNDAxZC05YjlkLTVmMDY1MDM2YTRmNiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJodHRwczovL29neGhkeXpmd3RjYXd1c2h2Z3NkLnN1cGFiYXNlLmNvL2F1dGgvdjEiLCJzdWIiOiJhZTdmYzI5Yy1kNTcyLTRlZjItODAwYS1iMjA1ODgxZTRhZTIiLCJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzcyNDM1MDg1LCJpYXQiOjE3NzI0MzE0ODUsImVtYWlsIjoidXNlckBnbWFpbC5jb20iLCJwaG9uZSI6IiIsImFwcF9tZXRhZGF0YSI6eyJwcm92aWRlciI6ImVtYWlsIiwicHJvdmlkZXJzIjpbImVtYWlsIl19LCJ1c2VyX21ldGFkYXRhIjp7ImVtYWlsX3ZlcmlmaWVkIjp0cnVlLCJmdWxsX25hbWUiOiJVc2VyIiwicm9sZSI6InN0dWRlbnQifSwicm9sZSI6ImF1dGhlbnRpY2F0ZWQiLCJhYWwiOiJhYWwxIiwiYW1yIjpbeyJtZXRob2QiOiJwYXNzd29yZCIsInRpbWVzdGFtcCI6MTc3MjQyNzk4OH1dLCJzZXNzaW9uX2lkIjoiMzI1MzYzYTctNmJlOS00Yjg3LWE4ODgtNDY5MjE2OWQxZDc0IiwiaXNfYW5vbnltb3VzIjpmYWxzZX0.1W07V0NWzFD12g8CGj0eEavVr5nisbiv9xU6vJnETrs54gw-SaXFm-7JzMMAW3t60POTGTPU2gTw4Q6qfq9lFQ","token_type":"bearer","expires_in":3600,"expires_at":1772435085,"refresh_token":"hx5yxyiqhgne","user":{"id":"ae7fc29c-d572-4ef2-800a-b205881e4ae2","aud":"authenticated","role":"authenticated","email":"user@gmail.com","email_confirmed_at":"2026-03-02T05:06:27.155233Z","phone":"","confirmed_at":"2026-03-02T05:06:27.155233Z","last_sign_in_at":"2026-03-02T05:06:27.977696Z","app_metadata":{"provider":"email","providers":["email"]},"user_metadata":{"email_verified":true,"full_name":"User","role":"student"},"identities":[{"identity_id":"b985c880-8e99-4231-82f2-fd3182b63189","id":"ae7fc29c-d572-4ef2-800a-b205881e4ae2","user_id":"ae7fc29c-d572-4ef2-800a-b205881e4ae2","identity_data":{"email":"user@gmail.com","email_verified":false,"phone_verified":false,"sub":"ae7fc29c-d572-4ef2-800a-b205881e4ae2"},"provider":"email","last_sign_in_at":"2026-03-02T05:06:27.143753Z","created_at":"2026-03-02T05:06:27.143804Z","updated_at":"2026-03-02T05:06:27.143804Z","email":"user@gmail.com"}],"created_at":"2026-03-02T05:06:27.102824Z","updated_at":"2026-03-02T06:04:45.448688Z","is_anonymous":false}}
+2026-03-02T08:13:14.586Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T08:13:14.800Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T08:13:14.586Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T08:13:14.800Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T07:28:15.162Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCKjmNekWtq3ai4JJuuAK3A-SiNZ4SLv-hPQ9r62IpBR5Lf4DXdBgOPwHil1SSeX1029DOAFMwVVYvPTE4EHEblXs2vimOgohuJ4JYV9sEuJAK0IAyMYPgMS9--VmDHZwrqdLFY6NPXH39WRafCreADEIi2cmriglE&csuir=1&udm=50
+2026-03-02T07:28:37.933Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCKjmNekWtq3ai4JJuuAK3A-SiNZ4SLv-hPQ9r62IpBR5Lf4DXdBgOPwHil1SSeX1029DOAFMwVVYvPTE4EHEblXs2vimOgohuJ4JYV9sEuJAK0IAyMYPgMS9--VmDHZwrqdLFY6NPXH39WRafCreADEIi2cmriglE&csuir=1&udm=50
+2026-03-02T07:28:40.097Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCRqIcR-DO86J0kGnaBwfyTYSo8mFKDq3vq6LG1ZurCBIdl_2YrWakrcpsufRCMalzNcbTBjc1zQFvRA1hj9r5vaW5P1PwWZHi9RE4-8DHrj4ne4Gmd7jbMCx_6vT3i5ItylE48bjj0D9u_kd8uYlo-wkkO4hS6O50&csuir=1&udm=50
+2026-03-02T07:29:37.169Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCRqIcR-DO86J0kGnaBwfyTYSo8mFKDq3vq6LG1ZurCBIdl_2YrWakrcpsufRCMalzNcbTBjc1zQFvRA1hj9r5vaW5P1PwWZHi9RE4-8DHrj4ne4Gmd7jbMCx_6vT3i5ItylE48bjj0D9u_kd8uYlo-wkkO4hS6O50&csuir=1&udm=50
+2026-03-02T07:29:42.613Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCVvNlqzP7HK6xxQuapXKpb3Bh_ExLzBMtd07p8fEDl_VHB88PDmUJwK2aLtrfa3_i3JlnYMeCj84JTsq51Mj-tHWNMcD3j5YjXEG6hBISJoOMy35Ww3pUG79BuX8BXRXa92djq5vb8pcOLz9JBFUHh8RWXYh0bnTs&csuir=1&udm=50
+2026-03-02T07:30:42.607Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCVvNlqzP7HK6xxQuapXKpb3Bh_ExLzBMtd07p8fEDl_VHB88PDmUJwK2aLtrfa3_i3JlnYMeCj84JTsq51Mj-tHWNMcD3j5YjXEG6hBISJoOMy35Ww3pUG79BuX8BXRXa92djq5vb8pcOLz9JBFUHh8RWXYh0bnTs&csuir=1&udm=50
+2026-03-02T07:30:49.524Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCH5ZyUpChKRv_Z7WnvDPklXmKVifFTeE82zlhujyaOjQxrKyfVbaQsys0T0m8L93vpM8BpcXrJQNutbFmX9CK_gb6Du6TjwrBjZaxok6o5-frMLQZ0b547vAnuSHB0gOHqNhpTPLmHVFGhcAc1oVmc1Ko5OF5yYVg&csuir=1&udm=50
+2026-03-02T07:32:04.632Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCH5ZyUpChKRv_Z7WnvDPklXmKVifFTeE82zlhujyaOjQxrKyfVbaQsys0T0m8L93vpM8BpcXrJQNutbFmX9CK_gb6Du6TjwrBjZaxok6o5-frMLQZ0b547vAnuSHB0gOHqNhpTPLmHVFGhcAc1oVmc1Ko5OF5yYVg&csuir=1&udm=50
+2026-03-02T07:32:12.577Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfCKXttP8bnIc0f5T_E9jqJSXD-f0b92rszYDsT2td9CQytaVXiHM5zWfbpUvZibSh3wCdPjJlv4QyIsaTBjQjQ4cPghW5GAOSwAHoKIHOff8BwriXa9tLs_RXdluDd1gG2EYsj8lGRrVmsB2ElbghaMrts4VefLaQ0&csuir=1&udm=50
+2026-03-02T07:35:43.202Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfC4jTBVqxpxLS0VjRGq5s33cJ50FT-A13EMRAHQhQSKAGFGLG2vxMGILe5HH7Pr09xD4Ugs5XP7slIFHm4fRBJQx61mYBcX4yAfVQrjpay1iZPcSMZ_NVAfgbG8_TnaPRBNAD5mOmaREVkdtYdfN80NKFmiTeOUAZ0&csuir=1&udm=50#kpfb-stage=2&kpfb-attr=AIM%20survey%20feedback&kpfb-tattr=&kpfb-ve=2ahUKEwjezYKz2ICTAxU5b2wGHZNBN1IQ_JkOegQIBRAm&kpfb-rval=We%20have%20those%20law's%20but,%20Asshole%20like%20you%20are%20finding%20a%20loophole%20in%20those%20laws%20and%20finding%20different%20ways%20to%20steal%20personal%20datas%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0A%0AI%20understand%20why%20you're%20angry.%20Many%20people%20share%20your%20concern%20that%20tech%20companies%20use%20complex%20legal%20language%20and%20%22dark%20patterns%22%E2%80%94manipulative%20design%20tactics%E2%80%94to%20collect%20data%20without%20clear,%20informed%20consent.%0A%0A%0AYouTube%0A%0A%2B1%0A%0A%0AThese%20issues%20are%20the%20subject%20of%20tension%20and%20legal%20action:%0A%0ALawsuits:A%20class-action%20lawsuit%20filed%20against%20Google%20in%20late%202025%20claimed%20that%20Gemini%20was%20activated%20across%20Gmail,%20Chat,%20and%20Meet%20to%20track%20private%20communications%20without%20user%20knowledge.Default%20Settings:Critics%20say%20that%20privacy%20controls%20are%20difficult%20for%20users%20to%20find%20because%20they%20are%20buried%20in%20menus.%20This%20is%20an%20%22opt-out%22%20rather%20than%20an%20%22opt-in%22%20model.Data%20Retention:Conversations%20can%20be%20stored%20for%20up%20to%2072%20hours%20for%20%22safety%20and%20quality%22%20purposes,%20even%20if%20%22Gemini%20Apps%20Activity%22%20is%20turned%20off.%20Data%20reviewed%20by%20human%20moderators%20can%20be%20kept%20for%20up%20to%20three%20yea&kpfb-kpid=glbl&kpfb-entityid=unknown&kpfb-entityname=AIM&kpfb-ftype=30&kfig=1&kpfb-ctx=GgQIARACIsYBCqcBQVV0RXhmQ0tYdHRQOGJuSWMwZjVUX0U5anFKU1hELWYwYjkycnN6WURzVDJ0ZDlDUXl0YVZYaUhNNXpXZmJwVXZaaWJTaDN3Q2RQakpsdjRReUlzYVRCalFqUTRjUGdoVzVHQU9Td0FIb0tJSE9mZjhCd3JpWGE5dExzX1JYZGx1RGQxZ0cyRVlzajhsR1JyVm1zQjJFbGJnaGFNcnRzNFZlZkxhUTA4DaoCFzlUeWxhZDNuQjQ2bzQtRVB3OGVwd0FNQhEKCGFpbV9sYWJzEgVmYWxzZQ&kpfb-ftag=114&kpfb-vt=0
+2026-03-02T07:35:50.298Z [console][log] __ORCHIDS_NAVIGATE__ https://www.google.com/search?q=Vannakam&sca_esv=ae999b120404273d&source=hp&ei=uzqlaYeqE4qanesPueDbsQM&iflsig=AFdpzrgAAAAAaaVIyyAJ5MR3Lfq3Uifc0BoBUOsIdro4&aep=22&ved=0ahUKEwjH87Kb14CTAxUKTWcHHTnwNjYQteYPCAk&oq=&gs_lp=Egdnd3Mtd2l6IgBIAFAAWABwAHgAkAEAmAEAoAEAqgEAuAEByAEAmAIAoAIAmAMAkgcAoAcAsgcAuAcAwgcAyAcAgAgA&sclient=gws-wiz&mstk=AUtExfC4jTBVqxpxLS0VjRGq5s33cJ50FT-A13EMRAHQhQSKAGFGLG2vxMGILe5HH7Pr09xD4Ugs5XP7slIFHm4fRBJQx61mYBcX4yAfVQrjpay1iZPcSMZ_NVAfgbG8_TnaPRBNAD5mOmaREVkdtYdfN80NKFmiTeOUAZ0&csuir=1&udm=50
+2026-03-02T08:13:13.519Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T08:13:13.712Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/onboarding
+2026-03-02T08:13:13.879Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T08:13:13.911Z [console][warn] [Fast Refresh] done in 136ms
+2026-03-02T08:14:23.672Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T08:14:25.134Z [console][warn] [Fast Refresh] done in 1535ms
+2026-03-02T08:14:38.456Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T08:14:38.704Z [console][warn] [Fast Refresh] done in 316ms
+2026-03-02T08:14:46.412Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T08:14:46.592Z [console][warn] [Fast Refresh] done in 250ms
+2026-03-02T08:13:13.713Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/onboarding
+2026-03-02T08:13:13.879Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T08:13:13.911Z [console][log] [Fast Refresh] done in 136ms
+2026-03-02T08:14:23.672Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T08:14:25.134Z [console][log] [Fast Refresh] done in 1535ms
+2026-03-02T08:14:38.456Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T08:14:38.703Z [console][log] [Fast Refresh] done in 316ms
+2026-03-02T08:14:46.412Z [console][log] [Fast Refresh] rebuilding
+2026-03-02T08:14:46.592Z [console][log] [Fast Refresh] done in 250ms
+2026-03-02T09:08:55.160Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T09:08:55.161Z [console][info] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T16:29:04.720Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T16:29:08.812Z [network][PATCH 204] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+  request: {"preferred_language":"en"}
+2026-03-02T16:44:28.080Z [console][error] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T16:44:28.080Z [console][error] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T16:47:09.951Z [console][warn] [Fast Refresh] rebuilding
+2026-03-02T16:47:10.110Z [console][warn] [Fast Refresh] done in 261ms
+2026-03-02T16:47:11.046Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-02T16:47:11.229Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/courses?page=1
+2026-03-02T16:47:12.343Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/courses?page=1
+2026-03-02T16:47:12.347Z [console][error] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T16:47:11.230Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/courses?page=1
+2026-03-02T16:47:12.343Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/courses?page=1
+2026-03-02T16:47:12.348Z [console][warn] Detected `scroll-behavior: smooth` on the `<html>` element. In a future version, Next.js will no longer automatically disable smooth scrolling during route transitions. To prepare for this change, add `data-scroll-behavior="smooth"` to your <html> element. Learn more: https://nextjs.org/docs/messages/missing-data-scroll-behavior
+2026-03-02T16:47:11.619Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T16:47:11.819Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-02T16:47:12.117Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+14:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+1c:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+23:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"MetadataBoundary"]
+28:"$Sreact.suspense"
+:N1772470031784.5393
+1:[]
+3:[]
+6:{"name":"CoursesPage","key":null,"env":"Server","stack":[],"props":{"params":"$@7","searchParams":"$@8"}}
+9:[["Array.map","",0,0,0,0,false]]
+a:[["Array.map","",0,0,0,0,false]]
+b:[["Array.map","",0,0,0,0,false]]
+c:[]
+10:"$EObject.defineProperty(async function getViewportReady() {\n        await viewport();\n        return undefined;\n    },\"name\",{value:\"getViewportReady\"})"
+f:{"name":"__nex... [truncated]
+2026-03-03T07:25:14.055Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T07:25:14.056Z [console][warn] [Fast Refresh] done in 112ms
+2026-03-03T07:24:29.284Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:29.937Z [console][log] [Fast Refresh] done in 754ms
+2026-03-03T07:24:30.040Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:30.201Z [console][log] [Fast Refresh] done in 263ms
+2026-03-03T07:24:30.209Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/wishlist
+2026-03-03T07:24:30.828Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:30.885Z [console][log] [Fast Refresh] done in 158ms
+2026-03-03T07:24:46.775Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:47.457Z [console][log] [Fast Refresh] done in 787ms
+2026-03-03T07:24:47.558Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:47.712Z [console][log] [Fast Refresh] done in 254ms
+2026-03-03T07:24:47.760Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/progress
+2026-03-03T07:24:48.833Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:24:48.868Z [console][log] [Fast Refresh] done in 136ms
+2026-03-03T07:25:06.779Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:07.476Z [console][log] [Fast Refresh] done in 798ms
+2026-03-03T07:25:07.577Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:07.716Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/notifications
+2026-03-03T07:25:07.726Z [console][log] [Fast Refresh] done in 250ms
+2026-03-03T07:25:08.349Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:08.420Z [console][log] [Fast Refresh] done in 171ms
+2026-03-03T07:25:12.272Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:12.977Z [console][log] [Fast Refresh] done in 806ms
+2026-03-03T07:25:13.082Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:13.236Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/profile
+2026-03-03T07:25:13.272Z [console][log] [Fast Refresh] done in 294ms
+2026-03-03T07:25:14.055Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T07:25:14.056Z [console][log] [Fast Refresh] done in 112ms
+2026-03-03T07:24:30.728Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientSegmentRoot"]
+e:I["[project]/orchids-projects/green-ladybug/src/app/(dashboard)/layout.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_aa7cf17b._.js","/_next/static/chunks/abed4_next_821301da._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_e9ae362d._.js","/_next/static/chunks/abed4_f35981b3._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(dashboard)_layout_tsx_09712d8f._.js"],"default"]
+10:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._... [truncated]
+2026-03-03T07:24:48.752Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+8:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+19:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+40:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+47:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/ab... [truncated]
+2026-03-03T07:25:08.252Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+11:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+20:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+27:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/ab... [truncated]
+2026-03-03T07:25:13.938Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+8:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+19:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+3a:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+41:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/ab... [truncated]
+2026-03-03T08:30:55.548Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T08:30:55.606Z [console][warn] [Fast Refresh] done in 169ms
+2026-03-03T08:29:49.319Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:29:50.010Z [console][log] [Fast Refresh] done in 791ms
+2026-03-03T08:29:50.117Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:29:50.266Z [console][log] [Fast Refresh] done in 256ms
+2026-03-03T08:29:50.400Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/profile
+2026-03-03T08:29:51.198Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:29:51.229Z [console][log] [Fast Refresh] done in 132ms
+2026-03-03T08:30:00.133Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:00.663Z [console][log] [Fast Refresh] done in 631ms
+2026-03-03T08:30:00.765Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:00.859Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/settings
+2026-03-03T08:30:00.881Z [console][log] [Fast Refresh] done in 217ms
+2026-03-03T08:30:01.289Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:01.307Z [console][log] [Fast Refresh] done in 117ms
+2026-03-03T08:30:06.924Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/profile
+2026-03-03T08:30:31.358Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:31.475Z [console][log] [Fast Refresh] done in 217ms
+2026-03-03T08:30:45.976Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:46.734Z [console][log] [Fast Refresh] done in 859ms
+2026-03-03T08:30:46.838Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:46.939Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/
+2026-03-03T08:30:47.046Z [console][log] [Fast Refresh] done in 311ms
+2026-03-03T08:30:53.276Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:55.103Z [console][log] [Fast Refresh] done in 1933ms
+2026-03-03T08:30:55.222Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:55.420Z [console][log] [Fast Refresh] done in 314ms
+2026-03-03T08:30:55.548Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T08:30:55.606Z [console][log] [Fast Refresh] done in 169ms
+2026-03-03T08:29:50.743Z [network][HEAD 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/cart_items?select=*&student_id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T08:29:50.750Z [network][HEAD 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/cart_items?select=*&student_id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T08:29:51.091Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientSegmentRoot"]
+e:I["[project]/orchids-projects/green-ladybug/src/app/(dashboard)/layout.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_c94f143e._.js","/_next/static/chunks/abed4_next_821301da._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_e9ae362d._.js","/_next/static/chunks/abed4_9efc75e1._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_(dashboard)_layout_tsx_09712d8f._.js"],"default"]
+10:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._... [truncated]
+2026-03-03T08:30:01.191Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+9:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+19:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+21:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+28:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/ab... [truncated]
+2026-03-03T08:30:07.536Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+8:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+13:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+1a:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+3b:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+42:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/ab... [truncated]
+2026-03-03T08:30:45.846Z [network][POST 204] https://ogxhdyzfwtcawushvgsd.supabase.co/auth/v1/logout?scope=global
+2026-03-03T08:30:46.843Z [network][GET 200] 
+  response: 2:"$Sreact.fragment"
+4:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+6:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-page.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientPageRoot"]
+7:I["[project]/orchids-projects/green-ladybug/src/app/page.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_89e7c7fc._.js","/_next/static/chunks/abed4_c3fd91f0._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_page_tsx_09712d8f._.js"],"default"]
+c:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+13:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+1b:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favico... [truncated]
+2026-03-03T09:00:18.773Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:19.017Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:19.116Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:19.216Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:19.296Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:22.354Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T09:00:22.403Z [console][error] ./orchids-projects/green-ladybug/src/app/(dashboard)/dashboard/notifications/page.tsx:18:1
+Module not found: Can't resolve '@/components/notifications/NotificationItemFull'
+  16 | import { Notification, NotificationType } from '@/types';
+  17 | import { MarkAllReadButton } from '@/components/notifications/MarkAllReadButton';
+> 18 | import { NotificationItemFull } from '@/components/notifications/NotificationItemFull';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  19 | import { cn } from '@/lib/utils';
+  20 |
+  21 | const ICON_MAP: Record<NotificationType, React.ElementType> = {
+
+Import map: aliased to relative './src/components/notifications/NotificationItemFull' inside of [project]/orchids-projects/green-ladybug
+
+https://nextjs.org/docs/messages/module-not-found
+2026-03-03T11:13:58.642Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T11:13:59.136Z [console][warn] [Fast Refresh] done in 596ms
+2026-03-03T11:14:00.457Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-03T11:14:00.766Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T11:14:00.783Z [console][warn] [Fast Refresh] done in 118ms
+2026-03-03T11:14:20.841Z [console][warn] [Fast Refresh] done in 293ms
+2026-03-03T11:14:36.393Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T11:14:36.850Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-03T11:14:37.011Z [console][error] [HMR] Invalid message: {"isTrusted":true}
+TypeError: Cannot convert undefined or null to object
+    at Object.keys (<anonymous>)
+    at extractModulesFromTurbopackMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:5974:39)
+    at TurbopackHmr.onTurbopackMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:5872:32)
+    at processMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:6276:30)
+    at WebSocket.handler (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:6417:17)
+2026-03-03T11:14:37.037Z [console][warn] [Fast Refresh] done in 719ms
+2026-03-03T11:14:14.574Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:14:14.946Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-03T11:14:14.999Z [console][log] [Fast Refresh] done in 472ms
+2026-03-03T11:14:20.619Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:14:20.812Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-03T11:14:20.841Z [console][log] [Fast Refresh] done in 293ms
+2026-03-03T11:14:36.393Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:14:36.849Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-03T11:14:37.011Z [console][warn] [HMR] Invalid message: {"isTrusted":true}
+TypeError: Cannot convert undefined or null to object
+    at Object.keys (<anonymous>)
+    at extractModulesFromTurbopackMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:5974:39)
+    at TurbopackHmr.onTurbopackMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:5872:32)
+    at processMessage (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:6276:30)
+    at WebSocket.handler (http://localhost:3000/_next/static/chunks/abed4_next_dist_client_387818ab._.js:6417:17)
+2026-03-03T11:14:37.037Z [console][log] [Fast Refresh] done in 719ms
+2026-03-03T11:14:01.395Z [network][POST 200] /__nextjs_original-stack-frames
+  request: {"frames":[{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/orchids-projects_green-ladybug_src_179896e6._.js","line1":467,"column1":79,"methodName":"CourseThumbnail","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":13072,"column1":24,"methodName":"Object.react_stack_bottom_frame","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":4091,"column1":24,"methodName":"renderWithHooks","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":5523,"column1":21,"methodName":"updateFunctionComponent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":6111,"column1":24,"methodName":"beginWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":886,"column1":74,"methodName":"runWithFiberInDEV","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8298,"column1":97,"methodName":"performUnitOfWork","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8294,"column1":58,"methodName":"workLoopConcurrentByScheduler","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compiled_react-dom_ab7b74b9._.js","line1":8276,"column1":71,"methodName":"renderRootConcurrent","arguments":[]},{"file":"file://C:/Users/sathu/orchids-projects/green-ladybug/.next/static/chunks/abed4_next_dist_compil... [truncated]
+  response: [{"status":"rejected","reason":"[Error: Original file () outside project (file:///C:/Users/sathu/)\n\nDebug info:\n- Execution of TaskId { id: 2147486306 } transient failed\n- Execution of project_trace_source_operation failed\n- Original file () outside project (file:///C:/Users/sathu/)] {\n  code: 'GenericFailure'\n}"},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":23583,"column1":20,"ignored":true,"methodName":"Object.react_stack_bottom_frame"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":6792,"column1":22,"ignored":true,"methodName":"renderWithHooks"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":9246,"column1":19,"ignored":true,"methodName":"updateFunctionComponent"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":10857,"column1":18,"ignored":true,"methodName":"beginWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":871,"column1":30,"ignored":true,"methodName":"runWithFiberInDEV"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/react-dom-client.development.js","line1":15726,"column1":22,"ignored":true,"methodName":"performUnitOfWork"},"originalCodeFrame":null}},{"status":"fulfilled","value":{"originalStackFrame":{"arguments":[],"file":"node_modules/next/dist/compiled/react-dom/cjs/r... [truncated]
+2026-03-03T11:26:17.447Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:26:17.452Z [console][log] [Fast Refresh] done in 107ms
+2026-03-03T11:26:20.361Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:26:20.579Z [console][log] [Fast Refresh] done in 318ms
+2026-03-03T11:26:21.875Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard/cart
+2026-03-03T11:26:22.375Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:26:22.550Z [console][log] [Fast Refresh] done in 276ms
+2026-03-03T11:27:06.916Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:27:07.250Z [console][warn] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-03T11:27:07.281Z [console][log] [Fast Refresh] done in 434ms
+2026-03-03T11:42:30.481Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:30.735Z [console][log] [Fast Refresh] done in 366ms
+2026-03-03T11:42:31.647Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/dashboard
+2026-03-03T11:42:31.703Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:31.801Z [console][log] [Fast Refresh] done in 211ms
+2026-03-03T11:42:32.960Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:32.961Z [console][log] [Fast Refresh] done in 140ms
+2026-03-03T11:42:37.505Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:38.375Z [console][log] [Fast Refresh] done in 976ms
+2026-03-03T11:42:38.479Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:38.546Z [console][log] [Fast Refresh] done in 170ms
+2026-03-03T11:42:39.351Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/courses/ui-ux-masterclass
+2026-03-03T11:42:39.374Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:39.437Z [console][log] [Fast Refresh] done in 177ms
+2026-03-03T11:42:51.237Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T11:42:24.839Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T11:42:25.061Z [network][GET 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/profiles?select=*&id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T11:42:31.998Z [network][HEAD 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/cart_items?select=*&student_id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T11:42:32.023Z [network][HEAD 200] https://ogxhdyzfwtcawushvgsd.supabase.co/rest/v1/cart_items?select=*&student_id=eq.ae7fc29c-d572-4ef2-800a-b205881e4ae2
+2026-03-03T11:42:32.868Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+18:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+1a:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+25:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"OutletBoundary"]
+2c:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/metadata/async-metadata.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"AsyncMetadataOutlet"]
+6b:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ViewportBoundary"]
+72:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/lib/framework/boundary-components.js [app-client] (ecmascript)",["/_next/static/chunks/... [truncated]
+2026-03-03T11:42:40.193Z [network][GET 200] 
+  response: 2:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/next-devtools/userspace/app/segment-explorer-node.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"SegmentViewNode"]
+4:"$Sreact.fragment"
+d:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/client-segment.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"ClientSegmentRoot"]
+e:I["[project]/orchids-projects/green-ladybug/src/app/courses/layout.tsx [app-client] (ecmascript)",["/_next/static/chunks/abed4_13b15040._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_a6568bf9._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_layout_tsx_9639bbc4._.js","/_next/static/chunks/abed4_next_19869841._.js","/_next/static/chunks/abed4_tailwind-merge_dist_bundle-mjs_mjs_e07380a2._.js","/_next/static/chunks/abed4_motion-dom_dist_es_bc6f3ec2._.js","/_next/static/chunks/abed4_framer-motion_dist_es_e9ae362d._.js","/_next/static/chunks/abed4_b0368d94._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_ad88a524._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_courses_layout_tsx_09712d8f._.js"],"default"]
+10:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/layout-router.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"default"]
+12:I["[project]/orchids-projects/green-ladybug/node_modules/next/dist/client/components/render-from-template-context.js [app-client] (ecmascript)",["/_next/static/chunks/abed4_next_dist_45ab4386._.js","/_next/static/chunks/orchids-projects_green-ladybug_src_app_favicon_ico_mjs_c35fd46e._.js"],"d... [truncated]
+2026-03-03T16:39:27.632Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T16:39:27.734Z [console][warn] [Fast Refresh] done in 209ms
+2026-03-03T16:39:27.857Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-03T16:39:34.186Z [console][warn] %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+2026-03-03T16:39:34.291Z [console][log] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-03T16:40:23.285Z [console][warn] [Fast Refresh] rebuilding
+2026-03-03T16:40:23.575Z [console][warn] [Fast Refresh] done in 392ms
+2026-03-03T16:39:34.291Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/signup
+2026-03-03T16:40:23.285Z [console][log] [Fast Refresh] rebuilding
+2026-03-03T16:40:23.575Z [console][log] [Fast Refresh] done in 392ms
+2026-03-05T09:03:41.412Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.413Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.506Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.507Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.650Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.650Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.738Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.739Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.774Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.774Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.899Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:41.900Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:42.400Z [console][error] Uncaught Error: ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+
+2026-03-05T09:03:42.422Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:42.422Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:42.474Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-client] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:03:42.474Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:04:04.687Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:04:15.934Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:05:20.536Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:03:42.474Z [console][error] ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx:11:1
+Export getVideoEmbedUrl doesn't exist in target module
+   9 | import { Input } from '@/components/ui/input';
+  10 | import { Textarea } from '@/components/ui/textarea';
+> 11 | import { getVideoEmbedUrl } from '@/lib/utils';
+     | ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  12 |
+  13 | interface LectureEditorPanelProps {
+  14 |   lecture: any;
+
+The export getVideoEmbedUrl was not found in module [project]/End_Sem_Project/slate/src/lib/utils.ts [app-ssr] (ecmascript).
+Did you mean to import formatRelativeTime?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+Import traces:
+  Client Component Browser:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component Browser]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+
+  Client Component SSR:
+    ./End_Sem_Project/slate/src/components/instructor/LectureEditorPanel.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Client Component SSR]
+    ./End_Sem_Project/slate/src/components/instructor/CurriculumBuilder.tsx [Server Component]
+    ./End_Sem_Project/slate/src/app/(instructor)/instructor/courses/[id]/curriculum/page.tsx [Server Component]
+2026-03-05T09:04:04.687Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:04:15.934Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:05:20.536Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:06:23.572Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:04:15.934Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:05:20.536Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T09:06:23.572Z [console][error] [Fast Refresh] performing full reload because your application had an unrecoverable error
+2026-03-05T11:42:55.421Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:42:56.035Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:42:56.606Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:42:57.311Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:04.897Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:05.559Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:06.240Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:06.899Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:07.443Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:14.209Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:15.032Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:15.663Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:16.268Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:43:16.809Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T11:44:56.727Z [console][error] %c%s%c Using the user object as returned from supabase.auth.getSession() or from some supabase.auth.onAuthStateChange() events could be insecure! This value comes directly from the storage medium (usually cookies on the server) and may not be authentic. Use supabase.auth.getUser() instead which authenticates the data by contacting the Supabase Auth server. background: #e6e6e6;background: light-dark(rgba(0,0,0,0.1), rgba(255,255,255,0.25));color: #000000;color: light-dark(#000000, #ffffff);border-radius: 2px  Server  
+2026-03-05T18:16:12.292Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:12.504Z [console][log] [Fast Refresh] done in 293ms
+2026-03-05T18:16:20.870Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:21.772Z [console][log] [Fast Refresh] done in 1003ms
+2026-03-05T18:16:21.873Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:21.961Z [console][log] [Fast Refresh] done in 188ms
+2026-03-05T18:16:22.662Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:22.742Z [console][log] [Fast Refresh] done in 183ms
+2026-03-05T18:16:22.833Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:22.932Z [console][log] [Fast Refresh] done in 69ms
+2026-03-05T18:16:23.054Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:23.076Z [console][log] [Fast Refresh] done in 122ms
+2026-03-05T18:16:23.489Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:23.599Z [console][log] [Fast Refresh] done in 213ms
+2026-03-05T18:16:24.473Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/admin/students
+2026-03-05T18:16:56.259Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:56.643Z [console][log] [Fast Refresh] done in 451ms
+2026-03-05T18:16:58.974Z [console][log] [Fast Refresh] rebuilding
+2026-03-05T18:16:59.078Z [console][log] [Fast Refresh] done in 205ms
+2026-03-05T18:16:59.228Z [console][debug] __ORCHIDS_NAVIGATE__ http://localhost:3000/admin/students
+2026-03-05T18:12:27.215Z [network][POST 200] /admin/dashboard
+  request: ["76193bc0-9456-4897-a99a-91f588c4f077","all"]
+  response: :N1772734347207.5303
+0:{"a":"$@1","f":"","b":"development"}
+1:[]
+
+2026-03-05T18:12:27.823Z [network][POST 200] /admin/dashboard
+  request: ["76193bc0-9456-4897-a99a-91f588c4f077","all"]
+  response: :N1772734347817.8652
+0:{"a":"$@1","f":"","b":"development"}
+1:[]
+
